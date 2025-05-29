@@ -1,6 +1,6 @@
 # Comparing the 2022 and 2025 Federal Elections
 
-This project builds an ETL pipeline that scrapes and processes election data from the Australian Electoral Commission (AEC), combining live 2025 results with preformatted data from the 2022 election to enable meaningful comparisons.
+This project builds an ETL pipeline that scrapes and processes election data from the Australian Electoral Commission (AEC), combining live 2025 results with pre-formatted data from the 2022 election to enable meaningful comparisons.
 
 The processed data is loaded into Power BI, where an interactive report allows users to compare booth-level results geographically. Users can explore individual electorates and polling booths through a dynamic map interface.
 
