@@ -5,4 +5,4 @@ This project builds an ETL pipeline that scrapes and processes election data fro
 The processed data is loaded into Power BI, where an interactive report allows users to compare booth-level results geographically. Users can explore individual electorates and polling booths via a dynamic map interface.
 
 Below is a snapshot of the report:  
-![Report Snapshot](election_report.pdf)
+![Report Snapshot](election_report.png)
